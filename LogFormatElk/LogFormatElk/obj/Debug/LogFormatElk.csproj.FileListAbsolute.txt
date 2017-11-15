@@ -1,0 +1,12 @@
+C:\3_perso\GIT\Utils\LogFormatElk\LogFormatElk\bin\Debug\LogFormatElk.dll
+C:\3_perso\GIT\Utils\LogFormatElk\LogFormatElk\bin\Debug\LogFormatElk.pdb
+C:\3_perso\GIT\Utils\LogFormatElk\LogFormatElk\bin\Debug\JetBrains.Annotations.dll
+C:\3_perso\GIT\Utils\LogFormatElk\LogFormatElk\bin\Debug\log4net.dll
+C:\3_perso\GIT\Utils\LogFormatElk\LogFormatElk\bin\Debug\Newtonsoft.Json.dll
+C:\3_perso\GIT\Utils\LogFormatElk\LogFormatElk\bin\Debug\JetBrains.Annotations.xml
+C:\3_perso\GIT\Utils\LogFormatElk\LogFormatElk\bin\Debug\log4net.xml
+C:\3_perso\GIT\Utils\LogFormatElk\LogFormatElk\bin\Debug\Newtonsoft.Json.xml
+C:\3_perso\GIT\Utils\LogFormatElk\LogFormatElk\obj\Debug\LogFormatElk.csprojResolveAssemblyReference.cache
+C:\3_perso\GIT\Utils\LogFormatElk\LogFormatElk\obj\Debug\LogFormatElk.csproj.CoreCompileInputs.cache
+C:\3_perso\GIT\Utils\LogFormatElk\LogFormatElk\obj\Debug\LogFormatElk.dll
+C:\3_perso\GIT\Utils\LogFormatElk\LogFormatElk\obj\Debug\LogFormatElk.pdb

@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2008
+VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogFormatElk", "LogFormatElk\LogFormatElk.csproj", "{6B40B402-613D-4C69-865B-BA9A7CE33F81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogFormatElk.Sample", "LogFormatElk.Sample\LogFormatElk.Sample.csproj", "{33B49460-6882-4D24-93FA-13135B349400}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{6B40B402-613D-4C69-865B-BA9A7CE33F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B40B402-613D-4C69-865B-BA9A7CE33F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B40B402-613D-4C69-865B-BA9A7CE33F81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33B49460-6882-4D24-93FA-13135B349400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33B49460-6882-4D24-93FA-13135B349400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33B49460-6882-4D24-93FA-13135B349400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33B49460-6882-4D24-93FA-13135B349400}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
